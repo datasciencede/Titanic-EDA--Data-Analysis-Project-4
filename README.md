@@ -1,6 +1,6 @@
 # 🚢 Titanic Survival Analysis – EDA Project
 
-### 🔗 [View Streamlit Version](https://5-titaniceda-dataanalysisprojectanalysisnotebo-2moqyk.streamlit.app/)
+### 🔗 [View Streamlit Version]( http://localhost:8501/)
 ### 🔗 [View DashBoard Version](http://localhost:8000/dasdboard.html)
 
 An **Exploratory Data Analysis (EDA)** project that dives into the classic **Titanic dataset** to uncover factors that influenced passenger survival.  
